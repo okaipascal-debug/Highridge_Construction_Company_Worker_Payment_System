@@ -1,4 +1,4 @@
-# Highridge_Construction_Company- Worker_Payment_System
+# Highridge Construction Company Worker Payment System
 
 ## Project Overview
 As a software engineer contracted by Highridge Construction Company, I developed a dual-language solution in both Python and R to automate weekly payroll processing for 400+ construction workers. This system dynamically generates worker data, applies business logic for employee classification, and generates payment slips with robust error handling.
